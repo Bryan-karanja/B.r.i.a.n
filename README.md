@@ -1,2 +1,3 @@
 # karanjabrian 
-an upcoming programmer.
+Full stack developer 
+python,html,css,Js
